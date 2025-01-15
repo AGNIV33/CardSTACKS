@@ -1,1 +1,1 @@
-# to view the site click the link "https://agniv33.github.io/CardSTACKS/"
+# To view the site click the link "https://agniv33.github.io/CardSTACKS/"
